@@ -1,0 +1,7 @@
+build/
+database/
+endpionts/
+/config.js
+/package-lock.json
+
+/node_modules
